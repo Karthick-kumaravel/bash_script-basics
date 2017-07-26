@@ -1,0 +1,23 @@
+add_book.sh contains - 7 lines
+add_continuous_num.sh contains - 10 lines
+add_for.sh contains - 7 lines
+add.sh contains - 10 lines
+bigestnum_book.sh contains - 18 lines
+bigestnum.sh contains - 18 lines
+case_book.sh contains - 17 lines
+case.sh contains - 8 lines
+chettinad_mailquota.sh contains - 6 lines
+date&time.sh contains - 6 lines
+dir.sh contains - 9 lines
+file_found.sh contains - 11 lines
+getops.sh contains - 91 lines
+ls1.sh contains - 12 lines
+ls.sh contains - 12 lines
+numberoflines.sh contains - 22 lines
+realnum_add.sh contains - 8 lines
+reverse_num1.sh contains - 8 lines
+reverse_num.sh contains - 12 lines
+reverse_step.sh contains - 10 lines
+test.sh contains - 10 lines
+while.sh contains - 5 lines
+2522
